@@ -1,5 +1,5 @@
 # Facebook_Udacity
-### [01](https://github.com/TanishB/Facebook_Udacity/tree/master/01_DeepLearning%20With%20PyTorch) : DeepLearning with PyTorch
+### [01](https://github.com/TanishB/Facebook_Udacity/tree/master/01_DeepLearning%20With%20PyTorch) DeepLearning with PyTorch
 > This folder contains the following notebooks :-
 > 1. [Introduction To DeepLearning](https://github.com/TanishB/Facebook_Udacity/blob/master/01_DeepLearning%20With%20PyTorch/01_Intro%20To%20DeepLearning.ipynb) 
 In this notebook you'll get introduced to PyTorch & basic mathematics behind neural networks.
