@@ -17,4 +17,5 @@ In this notebook you'll learn how to train a neural network.
 MNIST is simple so here you'll build a deep learning model using FashionMNIST dataset, which is a bit complex to train.
 <img src='assets/fashion-mnist-sprite.png' width=400px>
 
-
+> 5. [Inference & Validation](https://github.com/TanishB/Facebook_Udacity/blob/master/01_DeepLearning%20With%20PyTorch/05_Inference%20And%20Validation.ipynb)
+In this notebook you'll learn about Validation, overfitting and Dropout(method to prevent overfitting)
