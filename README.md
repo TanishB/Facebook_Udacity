@@ -19,3 +19,6 @@ MNIST is simple so here you'll build a deep learning model using FashionMNIST da
 
 > 5. [Inference & Validation](https://github.com/TanishB/Facebook_Udacity/blob/master/01_DeepLearning%20With%20PyTorch/05_Inference%20And%20Validation.ipynb)
 In this notebook you'll learn about Validation, overfitting and Dropout(method to prevent overfitting)
+
+> 6. [Saving & Loading Models](https://github.com/TanishB/Facebook_Udacity/blob/master/01_DeepLearning%20With%20PyTorch/06_Saving%20%26%20Loading%20Models.ipynb)
+In this notebook you'll learn How to save and load the model as we cannot train the network everytime we need to use it.
