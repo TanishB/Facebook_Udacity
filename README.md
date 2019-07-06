@@ -25,3 +25,9 @@ In this notebook you'll learn How to Load Image Data using torchvision ImageFold
 
 > 7. [Transfer Learning](https://github.com/TanishB/Facebook_Udacity/blob/master/01_DeepLearning%20With%20PyTorch/08_Transfer_Learning.ipynb)
 In this notebook you'll learn about Transfer Learning, using pretrained networks.
+
+
+### [02](https://github.com/TanishB/Facebook_Udacity/tree/master/02_IntroducingDifferentialPrivacy) Introduction to Differential Privacy
+> This folder contains the following notebook :-
+> 1. [Parallel Databases](https://github.com/TanishB/Facebook_Udacity/blob/master/02_IntroducingDifferentialPrivacy/Parallel%20Databases.ipynb) 
+In this notebook, you'll get to know when can we say Privacy is preserved and you'll also learn about parallel databases
