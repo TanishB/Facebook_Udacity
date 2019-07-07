@@ -31,3 +31,9 @@ In this notebook you'll learn about Transfer Learning, using pretrained networks
 > This folder contains the following notebook :-
 > 1. [Parallel Databases](https://github.com/TanishB/Facebook_Udacity/blob/master/02_IntroducingDifferentialPrivacy/Parallel%20Databases.ipynb) 
 In this notebook, you'll get to know when can we say Privacy is preserved and you'll also learn about parallel databases
+
+
+### [03](https://github.com/TanishB/Facebook_Udacity/tree/master/03_Evaluating%20Privacy%20Of%20Function) Evaluating Privacy of a Function
+> This folder contains the following notebook :-
+> 1. [Sensitivity](https://github.com/TanishB/Facebook_Udacity/blob/master/03_Evaluating%20Privacy%20Of%20Function/Evaluating%20Privacy-Sensitivity.ipynb) 
+In this notebook, you'll learn How to calculate privacy oa function(Sensitivity) and different queries like sum | average | threshold
